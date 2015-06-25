@@ -1,10 +1,10 @@
 /**
- * 
+ * Are you ready ?
  */
 package org.ayr.main;
 
 /**
- * @author Administrator
+ * @author ayrzjy
  *
  */
 public class Bootstrap {
@@ -13,8 +13,6 @@ public class Bootstrap {
      * @param args
      */
     public static void main(String[] args) {
-	// TODO Auto-generated method stub
-
+	System.out.println("Hello remote");
     }
-
 }
